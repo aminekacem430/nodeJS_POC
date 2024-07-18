@@ -1,0 +1,13 @@
+###
+GET http://localhost:3000/api/user/getall
+
+###
+POST http://localhost:3000/api/user/
+Content-Type: application/json
+
+{
+    "username":"user2",
+    "email":"user2@yahoo.fr",
+    "password":"P@$00000$18e6scss15531zd"
+}
+
